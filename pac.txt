@@ -2,17 +2,57 @@
 // https://github.com/clowwindy/gfwlist2pac
 
 var domains = {
-  "bandwagonhost.com": 1,
-  "gimpshop.com": 1, 
+  // VPNs
+  "bandwagonhost.com": 1,             // 搬瓦工
+  "perfectvpn.net": 1, 
+  "strongvpn.com": 1, 
+
+  // Tools
+  "gimpshop.com": 1,                  // 图形工具(类似Photoshop)
+
+  // 咨询新闻
+  "wikinews.org": 1,                  // 维基新闻
+  "2000fun.com": 1,                   // 游戏咨询
+  "bignews.org": 1,
+  "yahoo.com.tw": 1, 
+
+  // 个人主页
+  "joachims.org": 1,                  // Thorsten Joachims
+
+  // 运动
+  "surfeasy.com.au": 1,               // 冲浪学校
+  "shop.ccs.com": 1,                  // Skate,Snow,Streetware And More
+  "skatewarehouse.com": 1,            // 滑板
+  "fpinsoles.com": 1,                 // fp insoles
+  "parachutistonline.com": 1,         // USPA官方杂志
+
+  // 视频
+  "youtube.com": 1, 
+  "youtubecn.com": 1, 
+
+  // 资源
+  "donkey4u.com": 1,
+
+  // 设计
+  "tagul.com": 1,
+
+  // 购物
+  "paypal.com": 1,
+  "3dcartstores.com": 1,
+  "shipstation.com": 1,
+
+
+  "businessinsider.com": 1,
+
+
+  "fuckgfw.com": 1, 
+  "fuckgcd.net": 1,
+
   "directcreative.com": 1, 
-  "speedpluss.org": 1, 
   "mingpaovan.com": 1, 
-  "wikinews.org": 1, 
-  "joachims.org": 1, 
   "maiio.net": 1, 
   "idv.tw": 1, 
   "mail-archive.com": 1, 
-  "surfeasy.com.au": 1, 
   "hihistory.net": 1, 
   "alexlur.org": 1, 
   "finalion.jp": 1, 
@@ -21,7 +61,6 @@ var domains = {
   "cmule.com": 1, 
   "gappp.org": 1, 
   "givemesomethingtoread.com": 1, 
-  "yahoo.com.tw": 1, 
   "robtex.com": 1, 
   "hoobastank.com": 1, 
   "thelifeyoucansave.com": 1, 
@@ -181,7 +220,6 @@ var domains = {
   "kickstarter.com": 1, 
   "plm.org.hk": 1, 
   "falsefire.com": 1, 
-  "fuckgfw.com": 1, 
   "topnews.in": 1, 
   "ihakka.net": 1, 
   "hkatvnews.com": 1, 
@@ -205,7 +243,6 @@ var domains = {
   "apiary.io": 1, 
   "e-gold.com": 1, 
   "jitouch.com": 1, 
-  "youtubecn.com": 1, 
   "livingonline.us": 1, 
   "your-freedom.net": 1, 
   "pct.org.tw": 1, 
@@ -387,7 +424,6 @@ var domains = {
   "icl-fi.org": 1, 
   "a-normal-day.com": 1, 
   "a5.com.ru": 1, 
-  "apetube.com": 1, 
   "biantailajiao.com": 1, 
   "chosun.com": 1, 
   "baidu.jp": 1, 
@@ -516,7 +552,6 @@ var domains = {
   "newsminer.com": 1, 
   "jwmusic.org": 1, 
   "socialwhale.com": 1, 
-  "drtuber.com": 1, 
   "devio.us": 1, 
   "wikilivres.info": 1, 
   "gmbd.cn": 1, 
@@ -618,7 +653,6 @@ var domains = {
   "facebook.net": 1, 
   "mymaji.com": 1, 
   "iask.bz": 1, 
-  "tubecao.com": 1, 
   "dontmovetochina.com": 1, 
   "hidemyass.com": 1, 
   "myparagliding.com": 1, 
@@ -723,7 +757,6 @@ var domains = {
   "tokyo-247.com": 1, 
   "twreg.info": 1, 
   "twitzap.com": 1, 
-  "bignews.org": 1, 
   "tora.to": 1, 
   "fileserve.com": 1, 
   "muzu.tv": 1, 
@@ -871,7 +904,6 @@ var domains = {
   "thebodyshop-usa.com": 1, 
   "youxu.info": 1, 
   "lianyue.net": 1, 
-  "youtube.com": 1, 
   "zhreader.com": 1, 
   "tcno.net": 1, 
   "ncn.org": 1, 
@@ -881,7 +913,6 @@ var domains = {
   "edubridge.com": 1, 
   "cari.com.my": 1, 
   "ezpeer.com": 1, 
-  "2000fun.com": 1, 
   "bnrmetal.com": 1, 
   "nf.id.au": 1, 
   "sowers.org.hk": 1, 
@@ -904,7 +935,6 @@ var domains = {
   "kurtmunger.com": 1, 
   "igvita.com": 1, 
   "maruta.be": 1, 
-  "xtube.com": 1, 
   "qusi8.net": 1, 
   "hk-pub.com": 1, 
   "nurgo-software.com": 1, 
@@ -1273,7 +1303,6 @@ var domains = {
   "wenyunchao.com": 1, 
   "travelinlocal.com": 1, 
   "thetibetpost.com": 1, 
-  "xyy69.com": 1, 
   "szbbs.net": 1, 
   "canadameet.com": 1, 
   "backpackers.com.tw": 1, 
@@ -2154,7 +2183,6 @@ var domains = {
   "embr.in": 1, 
   "clb.org.hk": 1, 
   "chaturbate.com": 1, 
-  "strongvpn.com": 1, 
   "asianwomensfilm.de": 1, 
   "bugclub.org": 1, 
   "xvedios.com": 1, 
@@ -2461,7 +2489,6 @@ var domains = {
   "173ng.com": 1, 
   "minghui.org": 1, 
   "isaacmao.com": 1, 
-  "perfectvpn.net": 1, 
   "freeman2.com": 1, 
   "sinonet.ca": 1, 
   "jpopforum.net": 1, 
@@ -2480,7 +2507,14 @@ var domains = {
   "lookatgame.com": 1, 
   "darpa.mil": 1, 
   "wtfpeople.com": 1, 
-  "1-apple.com.tw": 1
+  "1-apple.com.tw": 1,
+  
+  "xyy69.com": 1, 
+  "apetube.com": 1, 
+  "drtuber.com": 1, 
+  "tubecao.com": 1, 
+  "xtube.com": 1, 
+  "brazzers.com": 1
 };
 
 var proxy = "__PROXY__";
