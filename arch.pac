@@ -2529,7 +2529,7 @@ var domains = {
   "megaporn.com": 1
 };
 
-var proxy = "PROXY 127.0.0.1:1080;";
+var proxy = "SOCKS5 127.0.0.1:1080;";
 
 var direct = 'DIRECT;';
 
