@@ -16,6 +16,7 @@ var domains = {
   "2000fun.com": 1,                   // 游戏咨询
   "bignews.org": 1,
   "yahoo.com.tw": 1, 
+  "wordpress.com": 1,
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
