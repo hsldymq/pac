@@ -49,12 +49,17 @@ var domains = {
   "archlinux.org": 1,
   "savannah.gnu.org": 1,
   "yzu.edu.tw": 1,
+  "zsh.org": 1,
+  "ohmyz.sh": 1,
 
   // 教育
   "coursera.org": 1,
 
   // 云
   "amazonaws.com": 1,
+
+  // 开发
+  "pecl.php.net": 1,
 
   "businessinsider.com": 1,
 
@@ -1322,6 +1327,12 @@ var domains = {
   "hutong9.net": 1, 
   "verybs.com": 1, 
   "blogspot.jp": 1, 
+  "blogspot.hk": 1, 
+  "blogspot.fr": 1, 
+  "blogspot.in": 1, 
+  "blogspot.com": 1, 
+  "blogspot.de": 1,  
+  "blogspot.ca": 1, 
   "avidemux.org": 1, 
   "alkasir.com": 1, 
   "shinychan.com": 1, 
@@ -1669,7 +1680,6 @@ var domains = {
   "techlifeweb.com": 1, 
   "junefourth-20.net": 1, 
   "seapuff.com": 1, 
-  "blogspot.hk": 1, 
   "waikeung.org": 1, 
   "jinbushe.org": 1, 
   "my-proxy.com": 1, 
@@ -1800,7 +1810,6 @@ var domains = {
   "mlcool.com": 1, 
   "uighurbiz.net": 1, 
   "omgili.com": 1, 
-  "blogspot.in": 1, 
   "sharpdaily.hk": 1, 
   "jiehua.cz": 1, 
   "livevideo.com": 1, 
@@ -1998,7 +2007,6 @@ var domains = {
   "linksalpha.com": 1, 
   "zmw.cn": 1, 
   "tweetmylast.fm": 1, 
-  "blogspot.fr": 1, 
   "6v6dota.com": 1, 
   "omnitalk.com": 1, 
   "idlcoyote.com": 1, 
@@ -2047,7 +2055,6 @@ var domains = {
   "xinhuanet.org": 1, 
   "yorkbbs.ca": 1, 
   "scribd.com": 1, 
-  "blogspot.com": 1, 
   "taragana.com": 1, 
   "kl.am": 1, 
   "rti.org.tw": 1, 
@@ -2363,7 +2370,6 @@ var domains = {
   "catch22.net": 1, 
   "digitalnomadsproject.org": 1, 
   "github.com": 1, 
-  "blogspot.de": 1, 
   "pcdvd.com.tw": 1, 
   "getyouram.com": 1, 
   "compileheart.com": 1, 
@@ -2506,6 +2512,7 @@ var domains = {
   "wtfpeople.com": 1, 
   "1-apple.com.tw": 1,
   
+  "contentabc.com": 1,
   "xyy69.com": 1, 
   "apetube.com": 1, 
   "drtuber.com": 1, 
