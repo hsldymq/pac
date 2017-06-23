@@ -29,6 +29,8 @@ var domains = {
   "fpfootwear.com": 1,
   "parachutistonline.com": 1,         // USPA官方杂志
   "apf.com.au": 1,
+  "parachutemanuals.com": 1,
+  "prototypeparachutes.com": 1,
 
   // 视频
   "youtube.com": 1, 
@@ -65,6 +67,8 @@ var domains = {
   "businessinsider.com": 1,
 
   "mikeroweworks.com": 1,
+
+  "freefalluniversity.co.uk": 1,
 
   "fuckgfw.com": 1, 
   "fuckgcd.net": 1,
