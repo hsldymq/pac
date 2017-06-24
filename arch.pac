@@ -17,6 +17,7 @@ var domains = {
   "bignews.org": 1,
   "yahoo.com.tw": 1, 
   "wordpress.com": 1,
+  "works-words.com": 1,
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
@@ -35,6 +36,7 @@ var domains = {
   // 视频
   "youtube.com": 1, 
   "youtubecn.com": 1, 
+  "vimeo.com": 1,
 
   // 资源
   "donkey4u.com": 1,
