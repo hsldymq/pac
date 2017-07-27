@@ -41,6 +41,9 @@ var domains = {
   // 资源
   "donkey4u.com": 1,
 
+  // 游戏
+  "steampowered.com": 1,
+
   // 设计
   "tagul.com": 1,
 
