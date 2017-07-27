@@ -2540,7 +2540,9 @@ var domains = {
   "pornhub.com": 1, 
   "gigporno.ru": 1, 
   "pornbase.org": 1, 
-  "megaporn.com": 1
+  "megaporn.com": 1,
+  "eyny.com": 1,
+  "imagebam.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
