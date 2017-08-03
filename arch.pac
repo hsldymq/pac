@@ -38,6 +38,9 @@ var domains = {
   // 资源
   "donkey4u.com": 1,
 
+  // 游戏
+  "steampowered.com": 1,
+
   // 设计
   "tagul.com": 1,
 
@@ -2540,7 +2543,9 @@ var domains = {
   "pornbase.org": 1, 
   "megaporn.com": 1,
   "e-hentai.org": 1, 
-  "hentaihaven.org": 1
+  "hentaihaven.org": 1,
+  "eyny.com": 1,
+  "imagebam.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
