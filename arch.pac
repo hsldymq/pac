@@ -66,6 +66,7 @@ var domains = {
 
   // 开发
   "pecl.php.net": 1,
+  "telerik.com": 1,
 
   "google.com": 1, 
   "google.ca": 1,
