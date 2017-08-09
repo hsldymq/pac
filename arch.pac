@@ -37,6 +37,7 @@ var domains = {
 
   // 资源
   "donkey4u.com": 1,
+  "libgen.io": 1,
 
   // 游戏
   "steampowered.com": 1,
