@@ -38,6 +38,7 @@ var domains = {
   // 资源
   "donkey4u.com": 1,
   "libgen.io": 1,
+  "bcbits.com": 1,                      // bandcamp 
 
   // 游戏
   "steampowered.com": 1,
@@ -86,8 +87,6 @@ var domains = {
   "mikeroweworks.com": 1,
 
   "freefalluniversity.co.uk": 1,
-
-  "bcbits.com": 1,
 
   "fuckgfw.com": 1, 
   "fuckgcd.net": 1,
