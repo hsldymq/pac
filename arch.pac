@@ -39,6 +39,7 @@ var domains = {
   "donkey4u.com": 1,
   "libgen.io": 1,
   "bcbits.com": 1,                      // bandcamp 
+  "bookzz.org": 1,
 
   // 游戏
   "steampowered.com": 1,
