@@ -71,6 +71,7 @@ var domains = {
   "pecl.php.net": 1,
   "telerik.com": 1,
   "rsyslog.com": 1,
+  "rfcreader.com": 1,
 
   "google.com": 1, 
   "google.ca": 1,
