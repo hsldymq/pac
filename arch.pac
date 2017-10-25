@@ -2550,6 +2550,7 @@ var domains = {
   "e-hentai.org": 1, 
   "hentaihaven.org": 1,
   "eyny.com": 1,
+  "hh.cx": 1,
   "imagebam.com": 1
 };
 
