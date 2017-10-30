@@ -73,6 +73,8 @@ var domains = {
   "rsyslog.com": 1,
   "rfcreader.com": 1,
 
+  "gohugo.io": 1,       // hugo
+
   "google.com": 1, 
   "google.ca": 1,
   "google.com.hk": 1, 
