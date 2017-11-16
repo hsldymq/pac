@@ -74,6 +74,8 @@ var domains = {
   "rfcreader.com": 1,
   "android.com": 1,
 
+  "gohugo.io": 1,       // hugo
+
   "google.com": 1, 
   "google.ca": 1,
   "google.com.hk": 1, 
@@ -2551,6 +2553,7 @@ var domains = {
   "e-hentai.org": 1, 
   "hentaihaven.org": 1,
   "eyny.com": 1,
+  "hh.cx": 1,
   "imagebam.com": 1
 };
 
