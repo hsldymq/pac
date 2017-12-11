@@ -16,6 +16,7 @@ var domains = {
   "yahoo.com.tw": 1, 
   "wordpress.com": 1,
   "works-words.com": 1,
+  "cnet.com": 1,
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
