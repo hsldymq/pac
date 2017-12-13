@@ -17,6 +17,7 @@ var domains = {
   "wordpress.com": 1,
   "works-words.com": 1,
   "cnet.com": 1,
+  "cbsi.com": 1,
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
@@ -67,6 +68,7 @@ var domains = {
 
   // 云
   "amazonaws.com": 1,
+  "gcr.io": 1,
 
   // 开发
   "pecl.php.net": 1,
