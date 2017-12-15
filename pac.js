@@ -76,6 +76,7 @@ var domains = {
   "rsyslog.com": 1,
   "rfcreader.com": 1,
   "android.com": 1,
+  "readthedocs.io": 1,
 
   "gohugo.io": 1,       // hugo
 
