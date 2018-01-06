@@ -1,9 +1,10 @@
 var domains = {
-  // VPNs
+  // VPN & Proxy
   "bandwagonhost.com": 1,             // 搬瓦工
   "perfectvpn.net": 1, 
   "strongvpn.com": 1, 
   "www.91yun.org": 1,
+  "haproxy.org": 1,
 
   // Tools
   "gimpshop.com": 1,                  
