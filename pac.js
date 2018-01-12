@@ -21,6 +21,7 @@ var domains = {
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
+  "wingy.top": 1,                   
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
