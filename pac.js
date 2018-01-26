@@ -79,6 +79,7 @@ var domains = {
   "rfcreader.com": 1,
   "android.com": 1,
   "readthedocs.io": 1,
+  "godoc.org": 1,
 
   "gohugo.io": 1,       // hugo
 
