@@ -49,6 +49,7 @@ var domains = {
 
   // 游戏
   "steampowered.com": 1,
+  "steamcommunity.com": 1,
 
   // 设计
   "tagul.com": 1,
