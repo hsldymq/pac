@@ -5,6 +5,7 @@ var domains = {
   "strongvpn.com": 1, 
   "www.91yun.org": 1,
   "haproxy.org": 1,
+  "rssing.com": 1,
 
   // Tools
   "gimpshop.com": 1,                  
@@ -24,6 +25,7 @@ var domains = {
   "joachims.org": 1,                  // Thorsten Joachims
   "wingy.top": 1,                   
   "redheadmonkeys.com": 1,            // Orangutang
+  "tonybai.com": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -59,6 +61,7 @@ var domains = {
   "3dcartstores.com": 1,
   "shipstation.com": 1,
   "amazon.com": 1, 
+  "rogaine.com": 1,
 
   // linux
   "archlinux.org": 1,
