@@ -72,6 +72,7 @@ var domains = {
 
   // 教育
   "coursera.org": 1,
+  "headfirstlabs.com": 1, 
 
   // 云
   "amazonaws.com": 1,
