@@ -48,6 +48,7 @@ var domains = {
   "libgen.io": 1,
   "bcbits.com": 1,                      // bandcamp 
   "bookzz.org": 1,
+  "googlesource.com": 1,
 
   // 游戏
   "steampowered.com": 1,
@@ -88,6 +89,9 @@ var domains = {
   "godoc.org": 1,
 
   "gohugo.io": 1,       // hugo
+
+  // 工作
+  "download-na.haochang.tv":1,
 
   "google.com": 1, 
   "google.ca": 1,
