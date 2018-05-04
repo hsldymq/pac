@@ -88,6 +88,7 @@ var domains = {
   "readthedocs.io": 1,
   "godoc.org": 1,
   "rust-lang.org": 1,
+  "gitbooks.io": 1,
 
   "gohugo.io": 1,       // hugo
 
