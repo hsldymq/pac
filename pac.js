@@ -90,6 +90,7 @@ var domains = {
   "rust-lang.org": 1,
   "gitbooks.io": 1,
   "opengroup.org": 1,
+  "docker.com": 1,
 
   "gohugo.io": 1,       // hugo
 
@@ -108,6 +109,7 @@ var domains = {
   "googlevideo.com": 1, 
   "googleapis.com": 1, 
   "googlecode.com": 1, 
+  "domain.google": 1,
 
   "businessinsider.com": 1,
 
