@@ -42,6 +42,7 @@ var domains = {
   "youtube.com": 1, 
   "youtubecn.com": 1, 
   "vimeo.com": 1,
+  "vimeocdn.com": 1,
 
   // 资源
   "donkey4u.com": 1,
