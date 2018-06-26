@@ -1,10 +1,12 @@
 var domains = {
-  // VPNs
+  // VPN & Proxy
   "bandwagonhost.com": 1,             // 搬瓦工
   "perfectvpn.net": 1, 
   "strongvpn.com": 1, 
   "www.91yun.org": 1,
   "v2ray.com": 1,
+  "haproxy.org": 1,
+  "rssing.com": 1,
 
   // Tools
   "gimpshop.com": 1,                  
@@ -17,9 +19,14 @@ var domains = {
   "yahoo.com.tw": 1, 
   "wordpress.com": 1,
   "works-words.com": 1,
+  "cnet.com": 1,
+  "cbsi.com": 1,
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
+  "wingy.top": 1,                   
+  "redheadmonkeys.com": 1,            // Orangutang
+  "tonybai.com": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -36,15 +43,18 @@ var domains = {
   "youtube.com": 1, 
   "youtubecn.com": 1, 
   "vimeo.com": 1,
+  "vimeocdn.com": 1,
 
   // 资源
   "donkey4u.com": 1,
   "libgen.io": 1,
   "bcbits.com": 1,                      // bandcamp 
   "bookzz.org": 1,
+  "googlesource.com": 1,
 
   // 游戏
   "steampowered.com": 1,
+  "steamcommunity.com": 1,
 
   // 设计
   "tagul.com": 1,
@@ -54,6 +64,7 @@ var domains = {
   "3dcartstores.com": 1,
   "shipstation.com": 1,
   "amazon.com": 1, 
+  "rogaine.com": 1,
 
   // linux
   "archlinux.org": 1,
@@ -64,17 +75,29 @@ var domains = {
 
   // 教育
   "coursera.org": 1,
+  "headfirstlabs.com": 1, 
 
   // 云
   "amazonaws.com": 1,
+  "gcr.io": 1,
 
   // 开发
   "pecl.php.net": 1,
   "telerik.com": 1,
   "rsyslog.com": 1,
   "rfcreader.com": 1,
+  "android.com": 1,
+  "readthedocs.io": 1,
+  "godoc.org": 1,
+  "rust-lang.org": 1,
+  "gitbooks.io": 1,
+  "opengroup.org": 1,
+  "docker.com": 1,
 
   "gohugo.io": 1,       // hugo
+
+  // 工作
+  "download-na.haochang.tv":1,
 
   "google.com": 1, 
   "google.ca": 1,
@@ -88,6 +111,7 @@ var domains = {
   "googlevideo.com": 1, 
   "googleapis.com": 1, 
   "googlecode.com": 1, 
+  "domain.google": 1,
 
   "businessinsider.com": 1,
 
