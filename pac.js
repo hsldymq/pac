@@ -91,6 +91,12 @@ var domains = {
   "gitbooks.io": 1,
   "opengroup.org": 1,
   "docker.com": 1,
+  "codewars.com": 1,
+
+  // CDN
+  "intercomcdn.com": 1,
+  "intercom.io": 1,
+  "fbcdn.net": 1,
 
   "gohugo.io": 1,       // hugo
 
