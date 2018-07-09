@@ -4,6 +4,7 @@ var domains = {
   "perfectvpn.net": 1, 
   "strongvpn.com": 1, 
   "www.91yun.org": 1,
+  "v2ray.com": 1,
   "haproxy.org": 1,
   "rssing.com": 1,
 
@@ -42,6 +43,7 @@ var domains = {
   "youtube.com": 1, 
   "youtubecn.com": 1, 
   "vimeo.com": 1,
+  "vimeocdn.com": 1,
 
   // 资源
   "donkey4u.com": 1,
@@ -2582,7 +2584,8 @@ var domains = {
   "hentaihaven.org": 1,
   "eyny.com": 1,
   "hh.cx": 1,
-  "imagebam.com": 1
+  "imagebam.com": 1,
+  "probiller.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
