@@ -27,6 +27,7 @@ var domains = {
   "wingy.top": 1,                   
   "redheadmonkeys.com": 1,            // Orangutang
   "tonybai.com": 1,
+  "nanxiao.me": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
