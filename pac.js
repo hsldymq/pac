@@ -95,6 +95,7 @@ var domains = {
   "docker.com": 1,
   "codewars.com": 1,
   "phpunit.de": 1,
+  "nodejs.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
