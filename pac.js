@@ -21,6 +21,7 @@ var domains = {
   "works-words.com": 1,
   "cnet.com": 1,
   "cbsi.com": 1,
+  "medium.com": 1,
 
   // 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
