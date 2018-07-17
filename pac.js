@@ -22,11 +22,12 @@ var domains = {
   "cnet.com": 1,
   "cbsi.com": 1,
 
-  // 个人主页
+  // 博客 & 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
   "wingy.top": 1,                   
   "redheadmonkeys.com": 1,            // Orangutang
   "tonybai.com": 1,
+  "github.io": 1,                     // Github Pages
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
