@@ -98,6 +98,7 @@ var domains = {
   "codewars.com": 1,
   "phpunit.de": 1,
   "nodejs.org": 1,
+  "chrome.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
