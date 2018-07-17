@@ -21,6 +21,7 @@ var domains = {
   "works-words.com": 1,
   "cnet.com": 1,
   "cbsi.com": 1,
+  "medium.com": 1,
 
   // 博客 & 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
@@ -96,6 +97,7 @@ var domains = {
   "docker.com": 1,
   "codewars.com": 1,
   "phpunit.de": 1,
+  "nodejs.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
