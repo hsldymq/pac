@@ -21,13 +21,15 @@ var domains = {
   "works-words.com": 1,
   "cnet.com": 1,
   "cbsi.com": 1,
+  "medium.com": 1,
 
-  // 个人主页
+  // 博客 & 个人主页
   "joachims.org": 1,                  // Thorsten Joachims
   "wingy.top": 1,                   
   "redheadmonkeys.com": 1,            // Orangutang
   "tonybai.com": 1,
   "nanxiao.me": 1,
+  "github.io": 1,                     // Github Pages
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -95,6 +97,15 @@ var domains = {
   "gitbooks.io": 1,
   "opengroup.org": 1,
   "docker.com": 1,
+  "codewars.com": 1,
+  "phpunit.de": 1,
+  "nodejs.org": 1,
+  "chrome.com": 1,
+
+  // CDN
+  "intercomcdn.com": 1,
+  "intercom.io": 1,
+  "fbcdn.net": 1,
 
   "gohugo.io": 1,       // hugo
 
