@@ -69,6 +69,7 @@ var domains = {
   "shipstation.com": 1,
   "amazon.com": 1, 
   "rogaine.com": 1,
+  "lotte.com": 1,
 
   // linux
   "archlinux.org": 1,
