@@ -12,6 +12,9 @@ var domains = {
   "gimpshop.com": 1,                  
   "putty.org": 1,
 
+  // 社交
+  "slack.com": 1,
+
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
   "2000fun.com": 1,                   // 游戏咨询
