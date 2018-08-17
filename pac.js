@@ -57,6 +57,9 @@ var domains = {
   "bcbits.com": 1,                      // bandcamp 
   "bookzz.org": 1,
   "googlesource.com": 1,
+  "googletagmanager.com": 1,
+  "slack-edge.com": 1,
+  "slack-msgs.com": 1,
 
   // 游戏
   "steampowered.com": 1,
