@@ -45,11 +45,12 @@ var domains = {
   "parachutemanuals.com": 1,
   "prototypeparachutes.com": 1,
 
-  // 视频
+  // 视频音乐
   "youtube.com": 1, 
   "youtubecn.com": 1, 
   "vimeo.com": 1,
   "vimeocdn.com": 1,
+  "bandcamp": 1,
 
   // 资源
   "donkey4u.com": 1,
@@ -108,6 +109,7 @@ var domains = {
   "phpunit.de": 1,
   "nodejs.org": 1,
   "chrome.com": 1,
+  "vuejs.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
@@ -555,7 +557,6 @@ var domains = {
   "hakkatv.org.tw": 1, 
   "wretch.cc": 1, 
   "urbanoutfitters.com": 1, 
-  "bandcamp.com": 1,
   "mobileways.de": 1, 
   "c-est-simple.com": 1, 
   "myfreshnet.com": 1, 
