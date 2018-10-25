@@ -14,6 +14,7 @@ var domains = {
 
   // 社交
   "slack.com": 1,
+  "reddit.com": 1,
 
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
