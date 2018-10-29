@@ -111,6 +111,7 @@ var domains = {
   "nodejs.org": 1,
   "chrome.com": 1,
   "vuejs.org": 1,
+  "libsodium.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
