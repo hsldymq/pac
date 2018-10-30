@@ -14,7 +14,10 @@ var domains = {
 
   // 社交
   "slack.com": 1,
+
+  // 社区
   "reddit.com": 1,
+  "quora.com": 1,
 
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
