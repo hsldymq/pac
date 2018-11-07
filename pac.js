@@ -65,6 +65,7 @@ var domains = {
   "googletagmanager.com": 1,
   "slack-edge.com": 1,
   "slack-msgs.com": 1,
+  "gdajie.com": 1,
 
   // 游戏
   "steampowered.com": 1,
