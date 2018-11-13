@@ -116,6 +116,8 @@ var domains = {
   "chrome.com": 1,
   "vuejs.org": 1,
   "libsodium.org": 1,
+  "mycard520.com.tw": 1,
+  "mycard520.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
