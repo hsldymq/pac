@@ -67,6 +67,7 @@ var domains = {
   "slack-msgs.com": 1,
   "gdajie.com": 1,
   "live.com": 1,
+  "1point3acres.com": 1,
 
   // 游戏
   "steampowered.com": 1,
