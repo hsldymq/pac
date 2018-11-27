@@ -68,6 +68,7 @@ var domains = {
   "gdajie.com": 1,
   "live.com": 1,
   "1point3acres.com": 1,
+  "composingprograms.com": 1,
 
   // 游戏
   "steampowered.com": 1,
@@ -121,6 +122,7 @@ var domains = {
   "mycard520.com.tw": 1,
   "mycard520.com": 1,
   "kaisery.github.io": 1,
+  "scrapy.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
