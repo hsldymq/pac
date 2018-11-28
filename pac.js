@@ -123,6 +123,7 @@ var domains = {
   "mycard520.com": 1,
   "kaisery.github.io": 1,
   "scrapy.org": 1,
+  "hackerrank.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
