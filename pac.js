@@ -18,6 +18,7 @@ var domains = {
   // 社区
   "reddit.com": 1,
   "quora.com": 1,
+  "lvv2.com": 1,
 
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
@@ -69,6 +70,8 @@ var domains = {
   "live.com": 1,
   "1point3acres.com": 1,
   "composingprograms.com": 1,
+  "ads-twitter.com": 1,
+  "nakov.com": 1,
 
   // 游戏
   "steampowered.com": 1,
