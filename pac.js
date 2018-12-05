@@ -127,6 +127,7 @@ var domains = {
   "kaisery.github.io": 1,
   "scrapy.org": 1,
   "hackerrank.com": 1,
+  "acm.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
