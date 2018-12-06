@@ -154,6 +154,7 @@ var domains = {
   "googlecode.com": 1, 
   "domain.google": 1,
   "ai.google": 1,
+  "googleblog.com": 1,
 
   "businessinsider.com": 1,
 
