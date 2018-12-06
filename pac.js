@@ -153,6 +153,7 @@ var domains = {
   "googleapis.com": 1, 
   "googlecode.com": 1, 
   "domain.google": 1,
+  "ai.google": 1,
 
   "businessinsider.com": 1,
 
