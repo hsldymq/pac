@@ -72,6 +72,7 @@ var domains = {
   "composingprograms.com": 1,
   "ads-twitter.com": 1,
   "nakov.com": 1,
+  "archive.org": 1,
 
   // 游戏
   "steampowered.com": 1,
