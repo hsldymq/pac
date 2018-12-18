@@ -130,6 +130,7 @@ var domains = {
   "hackerrank.com": 1,
   "acm.org": 1,
   "laravel.com": 1,
+  "wiki.php.net": 1,
 
   // CDN
   "intercomcdn.com": 1,
