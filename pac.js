@@ -38,6 +38,7 @@ var domains = {
   "tonybai.com": 1,
   "nanxiao.me": 1,
   "github.io": 1,                     // Github Pages
+  "blogspot.com": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
