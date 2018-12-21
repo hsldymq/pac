@@ -39,6 +39,7 @@ var domains = {
   "nanxiao.me": 1,
   "github.io": 1,                     // Github Pages
   "blogspot.com": 1,
+  "salttiger.com": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
