@@ -140,6 +140,7 @@ var domains = {
   "intercom.io": 1,
   "fbcdn.net": 1,
   "cloudfront.net": 1,
+  "quoracdn.net": 1,
 
   "gohugo.io": 1,       // hugo
 
