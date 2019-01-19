@@ -142,6 +142,7 @@ var domains = {
   "fbcdn.net": 1,
   "cloudfront.net": 1,
   "quoracdn.net": 1,
+  "sndcdn.com": 1,
 
   "gohugo.io": 1,       // hugo
 
