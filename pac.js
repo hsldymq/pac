@@ -75,6 +75,7 @@ var domains = {
   "ads-twitter.com": 1,
   "nakov.com": 1,
   "archive.org": 1,
+  "paperswelove.org": 1,
 
   // 游戏
   "steampowered.com": 1,
@@ -142,6 +143,8 @@ var domains = {
   "intercom.io": 1,
   "fbcdn.net": 1,
   "cloudfront.net": 1,
+  "quoracdn.net": 1,
+  "sndcdn.com": 1,
 
   "gohugo.io": 1,       // hugo
 
