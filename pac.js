@@ -126,6 +126,8 @@ var domains = {
   "chrome.com": 1,
   "vuejs.org": 1,
   "libsodium.org": 1,
+  "developer.mozilla.org": 1,
+  "bargain.mycard520.com.tw": 0,
   "mycard520.com.tw": 1,
   "mycard520.com": 1,
   "kaisery.github.io": 1,
@@ -2638,6 +2640,26 @@ var direct = 'DIRECT;';
 var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
+    var splited = host.split('.');
+
+    while (splited.length > 0) {
+        var h = splited.join('.');
+        if (hasOwnProperty.call(domains, h)) {
+            if (domains[h] === 1) {
+                return proxy;
+            } else {
+                return direct;
+            }
+            
+        }
+
+        splited.shift();
+    }
+
+    return direct;
+}
+
+function FindProxyForURL_backup(url, host) {
     var suffix;
     var pos = host.lastIndexOf('.');
     pos = host.lastIndexOf('.', pos - 1);
