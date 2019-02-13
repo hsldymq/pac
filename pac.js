@@ -137,6 +137,8 @@ var domains = {
   "acm.org": 1,
   "laravel.com": 1,
   "wiki.php.net": 1,
+  "github.com": 1, 
+  "githubasssets.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
@@ -2463,7 +2465,6 @@ var domains = {
   "dabr.mobi": 1, 
   "catch22.net": 1, 
   "digitalnomadsproject.org": 1, 
-  "github.com": 1, 
   "pcdvd.com.tw": 1, 
   "getyouram.com": 1, 
   "compileheart.com": 1, 
