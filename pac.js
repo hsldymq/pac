@@ -139,6 +139,7 @@ var domains = {
   "wiki.php.net": 1,
   "github.com": 1, 
   "githubasssets.com": 1,
+  "githubusercontent.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
