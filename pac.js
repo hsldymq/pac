@@ -148,6 +148,7 @@ var domains = {
   "cloudfront.net": 1,
   "quoracdn.net": 1,
   "sndcdn.com": 1,
+  "nflxvideo.net": 1,
 
   "gohugo.io": 1,       // hugo
 
