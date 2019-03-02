@@ -141,6 +141,7 @@ var domains = {
   "githubasssets.com": 1,
   "githubusercontent.com": 1,
   "opencollective.com": 1,
+  "azure.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
