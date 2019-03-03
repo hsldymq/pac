@@ -92,6 +92,7 @@ var domains = {
   "amazon.com": 1, 
   "rogaine.com": 1,
   "lotte.com": 1,
+  "gopro.com": 1,
 
   // linux
   "archlinux.org": 1,
