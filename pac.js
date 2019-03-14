@@ -143,6 +143,7 @@ var domains = {
   "githubusercontent.com": 1,
   "opencollective.com": 1,
   "azure.com": 1,
+  "securitytube.net": 1,
 
   // CDN
   "intercomcdn.com": 1,
