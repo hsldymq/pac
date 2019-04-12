@@ -145,6 +145,7 @@ var domains = {
   "azure.com": 1,
   "jetbrains.com": 1,
   "securitytube.net": 1,
+  "python-requests.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
