@@ -108,6 +108,7 @@ var domains = {
 
   // 云
   "amazonaws.com": 1,
+  "aws.amazon.com": 1,
   "gcr.io": 1,
 
   // 开发
