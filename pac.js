@@ -147,6 +147,7 @@ var domains = {
   "jetbrains.com": 1,
   "securitytube.net": 1,
   "python-requests.org": 1,
+  "x64dbg.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
