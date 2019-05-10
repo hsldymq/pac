@@ -76,6 +76,7 @@ var domains = {
   "nakov.com": 1,
   "archive.org": 1,
   "paperswelove.org": 1,
+  "isbndb.com": 1,
 
   // 游戏
   "steampowered.com": 1,
