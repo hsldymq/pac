@@ -2646,7 +2646,8 @@ var domains = {
   "eyny.com": 1,
   "hh.cx": 1,
   "imagebam.com": 1,
-  "probiller.com": 1
+  "probiller.com": 1,
+  "javlibrary.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
