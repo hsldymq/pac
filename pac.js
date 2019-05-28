@@ -2625,6 +2625,7 @@ var domains = {
   "tubecao.com": 1, 
   "xtube.com": 1, 
   "brazzers.com": 1,
+  "brazzerscontent.com": 1,
   "phncdn.com": 1,
   "art-or-porn.com": 1, 
   "pornrapidshare.com": 1, 
