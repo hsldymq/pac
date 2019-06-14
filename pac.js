@@ -113,6 +113,7 @@ var domains = {
 
   // 开发
   "pecl.php.net": 1,
+  "php.net": 1,
   "telerik.com": 1,
   "rsyslog.com": 1,
   "rfcreader.com": 1,
@@ -147,6 +148,7 @@ var domains = {
   "jetbrains.com": 1,
   "securitytube.net": 1,
   "python-requests.org": 1,
+  "osdn.net": 1,
 
   // CDN
   "intercomcdn.com": 1,
