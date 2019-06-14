@@ -76,6 +76,8 @@ var domains = {
   "nakov.com": 1,
   "archive.org": 1,
   "paperswelove.org": 1,
+  "isbndb.com": 1,
+  "software-download.microsoft.com": 1,
 
   // 游戏
   "steampowered.com": 1,
@@ -149,6 +151,7 @@ var domains = {
   "securitytube.net": 1,
   "python-requests.org": 1,
   "osdn.net": 1,
+  "x64dbg.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
@@ -2624,6 +2627,7 @@ var domains = {
   "tubecao.com": 1, 
   "xtube.com": 1, 
   "brazzers.com": 1,
+  "brazzerscontent.com": 1,
   "phncdn.com": 1,
   "art-or-porn.com": 1, 
   "pornrapidshare.com": 1, 
@@ -2645,7 +2649,8 @@ var domains = {
   "eyny.com": 1,
   "hh.cx": 1,
   "imagebam.com": 1,
-  "probiller.com": 1
+  "probiller.com": 1,
+  "javlibrary.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
