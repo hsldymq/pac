@@ -102,6 +102,7 @@ var domains = {
   "yzu.edu.tw": 1,
   "zsh.org": 1,
   "ohmyz.sh": 1,
+  "manjaro.org": 1,
 
   // 教育
   "coursera.org": 1,
