@@ -79,6 +79,11 @@ var domains = {
   "isbndb.com": 1,
   "software-download.microsoft.com": 1,
 
+  // 金融
+  "hbg.com": 1,
+  "binance.com": 1,
+  "zb": 1,
+
   // 游戏
   "steampowered.com": 1,
   "steamcommunity.com": 1,
@@ -103,6 +108,9 @@ var domains = {
   "zsh.org": 1,
   "ohmyz.sh": 1,
   "manjaro.org": 1,
+
+  // 应用
+  "apps.apple.com": 1,
 
   // 教育
   "coursera.org": 1,
