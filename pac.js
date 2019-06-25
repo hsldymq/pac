@@ -78,6 +78,7 @@ var domains = {
   "paperswelove.org": 1,
   "isbndb.com": 1,
   "software-download.microsoft.com": 1,
+  "xfce-look.org": 1,
 
   // 金融
   "hbg.com": 1,
