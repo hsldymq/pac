@@ -1,2 +1,2 @@
 # pac
-pac.txt
+pac.js
