@@ -51,6 +51,7 @@ var domains = {
   "apf.com.au": 1,
   "parachutemanuals.com": 1,
   "prototypeparachutes.com": 1,
+  "chutingstar.com": 1,
 
   // 视频音乐
   "youtube.com": 1, 
