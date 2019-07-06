@@ -51,6 +51,7 @@ var domains = {
   "apf.com.au": 1,
   "parachutemanuals.com": 1,
   "prototypeparachutes.com": 1,
+  "chutingstar.com": 1,
 
   // 视频音乐
   "youtube.com": 1, 
@@ -79,6 +80,12 @@ var domains = {
   "isbndb.com": 1,
   "software-download.microsoft.com": 1,
   "imgur.com": 1,
+  "xfce-look.org": 1,
+
+  // 金融
+  "hbg.com": 1,
+  "binance.com": 1,
+  "zb": 1,
 
   // 游戏
   "steampowered.com": 1,
@@ -103,6 +110,10 @@ var domains = {
   "yzu.edu.tw": 1,
   "zsh.org": 1,
   "ohmyz.sh": 1,
+  "manjaro.org": 1,
+
+  // 应用
+  "apps.apple.com": 1,
 
   // 教育
   "coursera.org": 1,
@@ -116,6 +127,7 @@ var domains = {
 
   // 开发
   "pecl.php.net": 1,
+  "php.net": 1,
   "telerik.com": 1,
   "rsyslog.com": 1,
   "rfcreader.com": 1,
@@ -150,6 +162,7 @@ var domains = {
   "jetbrains.com": 1,
   "securitytube.net": 1,
   "python-requests.org": 1,
+  "osdn.net": 1,
   "x64dbg.org": 1,
 
   // CDN
