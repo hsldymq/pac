@@ -78,6 +78,7 @@ var domains = {
   "paperswelove.org": 1,
   "isbndb.com": 1,
   "software-download.microsoft.com": 1,
+  "imgur.com": 1,
 
   // 游戏
   "steampowered.com": 1,
