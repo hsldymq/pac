@@ -81,6 +81,7 @@ var domains = {
   "software-download.microsoft.com": 1,
   "imgur.com": 1,
   "xfce-look.org": 1,
+  "gigenet.com": 1,
 
   // 金融
   "hbg.com": 1,
