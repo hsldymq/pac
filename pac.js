@@ -110,6 +110,7 @@ var domains = {
   "zsh.org": 1,
   "ohmyz.sh": 1,
   "manjaro.org": 1,
+  "kde.org": 1,
 
   // 应用
   "apps.apple.com": 1,
