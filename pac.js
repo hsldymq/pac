@@ -82,6 +82,7 @@ var domains = {
   "imgur.com": 1,
   "xfce-look.org": 1,
   "gigenet.com": 1,
+  "nextcloud.com": 1,
 
   // 金融
   "hbg.com": 1,
