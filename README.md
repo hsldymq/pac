@@ -4,7 +4,7 @@
 将pac.js文件应用到浏览器代理设置,或其他代理工具中指定pac.js文件系统路径
 
 ## docker
-由于chrome的沙河环境不再允许在PAC proxy配置中指定文件系统中的PAC文件,firefox以后会不会这么搞也很难说.所以特意制作这个docker镜像
+由于chrome的沙盒环境不再允许在PAC proxy配置中指定文件系统中的PAC文件,firefox以后会不会这么搞也很难说.所以特意制作这个docker镜像
 
 #### docker pull
 ```bash
