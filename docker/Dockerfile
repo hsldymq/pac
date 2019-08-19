@@ -1,4 +1,4 @@
-FROM golang:1.12-alpine as temp
+FROM golang:1.12-alpine3.10 as temp
 
 COPY go.mod /build/go.mod
 COPY go.sum /build/go.sum
@@ -7,7 +7,7 @@ COPY vendor /build/vendor
 
 RUN cd /build && GOFLAGS=-mod=vendor go build -o server
 
-FROM golang:1.12-alpine
+FROM alpine:3.10
 
 COPY --from=temp /build/server /var/www/server
 RUN mkdir -p /var/www/pac
