@@ -2,10 +2,9 @@ package main
 
 import (
 	"fmt"
+	"log"
 	"net/http"
 	"os"
-
-	"github.com/sirupsen/logrus"
 )
 
 func main() {
@@ -18,10 +17,9 @@ func main() {
 	})
 
 	listen := fmt.Sprintf("%s:%s", "0.0.0.0", os.Getenv("LISTEN_PORT"))
-	logrus.SetLevel(logrus.DebugLevel)
-	logrus.Debugf("pac server is listening %s", listen)
+	fmt.Printf("pac server is listening %s\n", listen)
   	err := http.ListenAndServe(listen, nil)
   	if err != nil {
-		logrus.Fatal(err)
+		log.Fatal(err)
 	}
 }

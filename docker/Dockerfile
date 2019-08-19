@@ -1,9 +1,6 @@
 FROM golang:1.12-alpine3.10 as temp
 
-COPY go.mod /build/go.mod
-COPY go.sum /build/go.sum
 COPY main.go /build/main.go
-COPY vendor /build/vendor
 
 RUN cd /build && GOFLAGS=-mod=vendor go build -o server
 
