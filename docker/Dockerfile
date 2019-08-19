@@ -2,7 +2,7 @@ FROM golang:1.12-alpine3.10 as temp
 
 COPY main.go /build/main.go
 
-RUN cd /build && GOFLAGS=-mod=vendor go build -o server
+RUN cd /build && go build -o server
 
 FROM alpine:3.10
 
