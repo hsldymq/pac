@@ -1,0 +1,12 @@
+version: "3"
+services:
+    pac:
+        image: hsldymq/pac
+        container_name: "pac"
+        restart: always
+        logging:
+            driver: journald 
+        volumes:
+            - ./../pac.js:/var/www/pac/pac.js
+        ports:
+            - 10801:10801
