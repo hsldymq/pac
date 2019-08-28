@@ -4,7 +4,6 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"os"
 )
 
 func main() {
@@ -16,10 +15,10 @@ func main() {
 		fs.ServeHTTP(w, r)
 	})
 
-	listen := fmt.Sprintf("%s:%s", "0.0.0.0", os.Getenv("LISTEN_PORT"))
+	listen := "0.0.0.0:10801"
 	fmt.Printf("pac server is listening %s\n", listen)
-  	err := http.ListenAndServe(listen, nil)
-  	if err != nil {
+	err := http.ListenAndServe(listen, nil)
+	if err != nil {
 		log.Fatal(err)
 	}
 }
