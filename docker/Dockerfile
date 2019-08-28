@@ -9,8 +9,8 @@ FROM alpine:3.10
 COPY --from=temp /build/server /var/www/server
 RUN mkdir -p /var/www/pac
 
-ENV LISTEN_PORT 10801
-
 WORKDIR /var/www
 
 CMD ["/var/www/server"]
+
+EXPOSE 10801
