@@ -32,13 +32,13 @@ services:
             - 10801:10801
 ```
 
+在docker目录下,有一个已写好的docker-compose.yml文件, 不想自己写的话可以进入docker目录运行`docker-compose up -d`
+
 #### 使用
 在浏览器设置或其他代理工具中指定PAC文件地址为 http://localhost:10801/pac.js
 
-#### 环境变量
-LISTEN_PORT: pac服务监听端口, 默认:`10801`
+#### 容器端口
+容器内部监听10801端口,宿主机的监听端口你可以根据自己的需要进行映射
 
-在docker run中使用 -e 或者在docker-compose中使用environment修改监听端口
-
-#### 容器目录
+#### 容器中pac.js路径
 容器中pac文件路径强制为/var/www/pac/pac.js, 所以无论宿主机环境中PAC文件是如何命名的
