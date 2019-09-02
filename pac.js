@@ -182,6 +182,7 @@ var domains = {
 
   // 工作
   "download-na.haochang.tv":1,
+  "partyforsing.tv": 1,
 
   "google.com": 1, 
   "google.ca": 1,
