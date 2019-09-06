@@ -135,6 +135,7 @@ var domains = {
   "telerik.com": 1,
   "rsyslog.com": 1,
   "rfcreader.com": 1,
+  "rfc-editor.org": 1,
   "android.com": 1,
   "readthedocs.io": 1,
   "godoc.org": 1,
