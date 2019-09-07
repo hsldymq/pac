@@ -60,6 +60,7 @@ var domains = {
   "vimeocdn.com": 1,
   "bandcamp": 1,
   "fender.com": 1,
+  "justinguitar.com": 1,
 
   // 资源
   "donkey4u.com": 1,
