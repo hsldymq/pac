@@ -86,6 +86,7 @@ var domains = {
   "gigenet.com": 1,
   "nextcloud.com": 1,
   "akamaihd.net": 1,
+  "stripe.network": 1,
 
   // 金融
   "hbg.com": 1,
