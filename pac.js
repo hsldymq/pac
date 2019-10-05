@@ -101,6 +101,7 @@ var domains = {
   "tagul.com": 1,
   "material.io": 1,
   "reeoo.com": 1,
+  "adobe.com": 1,
 
   // 购物
   "paypal.com": 1,
