@@ -61,6 +61,7 @@ var domains = {
   "vimeocdn.com": 1,
   "bandcamp": 1,
   "fender.com": 1,
+  "justinguitar.com": 1,
 
   // 资源
   "donkey4u.com": 1,
@@ -88,6 +89,8 @@ var domains = {
   "pirateproxy.wtf": 1,
   "openpirate.org": 1,
   "unblockpirate.uk": 1,
+  "akamaihd.net": 1,
+  "stripe.network": 1,
 
   // 金融
   "hbg.com": 1,
@@ -97,10 +100,13 @@ var domains = {
   // 游戏
   "steampowered.com": 1,
   "steamcommunity.com": 1,
+  "alliedmods.net": 1,
 
   // 设计
   "tagul.com": 1,
   "material.io": 1,
+  "reeoo.com": 1,
+  "adobe.com": 1,
 
   // 购物
   "paypal.com": 1,
