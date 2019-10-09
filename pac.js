@@ -19,6 +19,7 @@ var domains = {
   "reddit.com": 1,
   "quora.com": 1,
   "lvv2.com": 1,
+  "steemit.com": 1,
 
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
@@ -84,6 +85,9 @@ var domains = {
   "xfce-look.org": 1,
   "gigenet.com": 1,
   "nextcloud.com": 1,
+  "pirateproxy.wtf": 1,
+  "openpirate.org": 1,
+  "unblockpirate.uk": 1,
 
   // 金融
   "hbg.com": 1,
