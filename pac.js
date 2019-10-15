@@ -133,6 +133,7 @@ var domains = {
   "coursera.org": 1,
   "headfirstlabs.com": 1, 
   "vanderbilt.edu": 1,
+  "edu.au": 1,
 
   // 云
   "amazonaws.com": 1,
