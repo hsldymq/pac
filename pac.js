@@ -180,6 +180,7 @@ var domains = {
   "python-requests.org": 1,
   "osdn.net": 1,
   "x64dbg.org": 1,
+  "ecma-international.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
