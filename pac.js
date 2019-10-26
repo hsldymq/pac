@@ -41,6 +41,8 @@ var domains = {
   "github.io": 1,                     // Github Pages
   "blogspot.com": 1,
   "salttiger.com": 1,
+  "pincong.rocks": 1,
+  "10beasts.net": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
