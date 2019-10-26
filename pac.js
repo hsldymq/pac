@@ -98,6 +98,7 @@ var domains = {
   "btcherry.com": 1,
   "torrentkitty.org": 1,
   "filemarkets.com": 1,
+  "torrentants.com": 1,
 
   // 金融
   "hbg.com": 1,
