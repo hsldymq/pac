@@ -93,6 +93,11 @@ var domains = {
   "unblockpirate.uk": 1,
   "akamaihd.net": 1,
   "stripe.network": 1,
+  "btlibrary.org": 1,
+  "btdigg.org": 1,
+  "btcherry.com": 1,
+  "torrentkitty.org": 1,
+  "filemarkets.com": 1,
 
   // 金融
   "hbg.com": 1,
@@ -2678,7 +2683,9 @@ var domains = {
   "imagebam.com": 1,
   "probiller.com": 1,
   "javlibrary.com": 1,
-  "avmask.com": 1
+  "avmask.com": 1,
+  "jav321.com": 1,
+  "sosobttt.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
