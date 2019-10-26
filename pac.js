@@ -99,6 +99,7 @@ var domains = {
   "torrentkitty.org": 1,
   "filemarkets.com": 1,
   "torrentants.com": 1,
+  "btgat.com": 1,
 
   // 金融
   "hbg.com": 1,
