@@ -151,6 +151,7 @@ var domains = {
   "readthedocs.io": 1,
   "godoc.org": 1,
   "rust-lang.org": 1,
+  "devdocs.io": 1,
   "gitbooks.io": 1,
   "opengroup.org": 1,
   "docker.com": 1,
