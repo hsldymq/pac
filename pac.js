@@ -163,6 +163,7 @@ var domains = {
   "readthedocs.io": 1,
   "godoc.org": 1,
   "rust-lang.org": 1,
+  "devdocs.io": 1,
   "gitbooks.io": 1,
   "opengroup.org": 1,
   "docker.com": 1,
@@ -192,6 +193,7 @@ var domains = {
   "python-requests.org": 1,
   "osdn.net": 1,
   "x64dbg.org": 1,
+  "godoc.org": 1,
   "ecma-international.org": 1,
 
   // CDN
