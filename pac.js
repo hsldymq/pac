@@ -41,6 +41,8 @@ var domains = {
   "github.io": 1,                     // Github Pages
   "blogspot.com": 1,
   "salttiger.com": 1,
+  "pincong.rocks": 1,
+  "10beasts.net": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -91,6 +93,13 @@ var domains = {
   "unblockpirate.uk": 1,
   "akamaihd.net": 1,
   "stripe.network": 1,
+  "btlibrary.org": 1,
+  "btdigg.org": 1,
+  "btcherry.com": 1,
+  "torrentkitty.org": 1,
+  "filemarkets.com": 1,
+  "torrentants.com": 1,
+  "btgat.com": 1,
 
   // 金融
   "hbg.com": 1,
@@ -182,6 +191,7 @@ var domains = {
   "osdn.net": 1,
   "x64dbg.org": 1,
   "godoc.org": 1,
+  "ecma-international.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
@@ -2676,7 +2686,10 @@ var domains = {
   "hh.cx": 1,
   "imagebam.com": 1,
   "probiller.com": 1,
-  "javlibrary.com": 1
+  "javlibrary.com": 1,
+  "avmask.com": 1,
+  "jav321.com": 1,
+  "sosobttt.com": 1
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
