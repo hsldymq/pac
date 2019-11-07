@@ -110,6 +110,9 @@ var domains = {
   "steampowered.com": 1,
   "steamcommunity.com": 1,
   "alliedmods.net": 1,
+  "blizzard.com": 1,
+  "battle.net": 1,
+  "callofduty.com": 1,
 
   // 设计
   "tagul.com": 1,
