@@ -146,6 +146,7 @@ var domains = {
   "headfirstlabs.com": 1, 
   "vanderbilt.edu": 1,
   "edu.au": 1,
+  "eslite.com": 1,
 
   // 云
   "amazonaws.com": 1,
