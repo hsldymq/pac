@@ -197,6 +197,7 @@ var domains = {
   "godoc.org": 1,
   "ecma-international.org": 1,
   "fuchsia.dev": 1,
+  "opensource.google": 1,
 
   // CDN
   "intercomcdn.com": 1,
