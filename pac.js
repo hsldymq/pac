@@ -146,6 +146,7 @@ var domains = {
   "headfirstlabs.com": 1, 
   "vanderbilt.edu": 1,
   "edu.au": 1,
+  "eslite.com": 1,
 
   // 云
   "amazonaws.com": 1,
@@ -212,6 +213,8 @@ var domains = {
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
 
+  "googleadservices.com": 1,
+  "google-analytics.com": 1,
   "google.com": 1, 
   "google.ca": 1,
   "google.com.hk": 1, 
