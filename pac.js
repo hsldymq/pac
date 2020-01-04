@@ -66,6 +66,7 @@ var domains = {
   "justinguitar.com": 1,
 
   // 资源
+  "pinterest.com": 1,
   "donkey4u.com": 1,
   "libgen.io": 1,
   "bcbits.com": 1,                      // bandcamp 
@@ -147,6 +148,7 @@ var domains = {
   "vanderbilt.edu": 1,
   "edu.au": 1,
   "eslite.com": 1,
+  "academia.edu": 1,
 
   // 云
   "amazonaws.com": 1,
@@ -196,6 +198,7 @@ var domains = {
   "x64dbg.org": 1,
   "godoc.org": 1,
   "ecma-international.org": 1,
+  "jsfiddle.net": 1,
 
   // CDN
   "intercomcdn.com": 1,
