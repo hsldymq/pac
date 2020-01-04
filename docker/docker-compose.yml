@@ -5,7 +5,9 @@ services:
         container_name: "pac"
         restart: always
         logging:
-            driver: journald 
+            driver: journald
+            options:
+                tag: pac
         volumes:
             - ./../pac.js:/var/www/pac/pac.js
         ports:

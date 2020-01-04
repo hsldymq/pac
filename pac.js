@@ -7,6 +7,7 @@ var domains = {
   "v2ray.com": 1,
   "haproxy.org": 1,
   "rssing.com": 1,
+  "v2fly.org": 1,
 
   // Tools
   "gimpshop.com": 1,                  
@@ -43,6 +44,7 @@ var domains = {
   "salttiger.com": 1,
   "pincong.rocks": 1,
   "10beasts.net": 1,
+  "ruslanspivak.com": 1,
 
   // 运动
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -199,6 +201,8 @@ var domains = {
   "godoc.org": 1,
   "ecma-international.org": 1,
   "jsfiddle.net": 1,
+  "fuchsia.dev": 1,
+  "opensource.google": 1,
 
   // CDN
   "intercomcdn.com": 1,
