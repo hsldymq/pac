@@ -203,6 +203,7 @@ var domains = {
   "jsfiddle.net": 1,
   "fuchsia.dev": 1,
   "opensource.google": 1,
+  "fiddle.jshell.net": 1,
 
   // CDN
   "intercomcdn.com": 1,
