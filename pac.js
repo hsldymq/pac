@@ -152,6 +152,7 @@ var domains = {
   "edu.au": 1,
   "eslite.com": 1,
   "academia.edu": 1,
+  "pacuit.org": 1,
 
   // 云
   "amazonaws.com": 1,
