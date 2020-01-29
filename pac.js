@@ -2693,6 +2693,7 @@ var domains = {
   "pornoxo.com": 1, 
   "porntube.com": 1, 
   "pornhub.com": 1, 
+  "pornhubpremium.com": 1,
   "gigporno.ru": 1, 
   "pornbase.org": 1, 
   "megaporn.com": 1,
