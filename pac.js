@@ -215,6 +215,7 @@ var domains = {
   "quoracdn.net": 1,
   "sndcdn.com": 1,
   "nflxvideo.net": 1,
+  "portalcdn.com": 1,
 
   "gohugo.io": 1,       // hugo
 
@@ -2694,6 +2695,8 @@ var domains = {
   "porntube.com": 1, 
   "pornhub.com": 1, 
   "pornhubpremium.com": 1,
+  "phprcdn.com": 1,
+  "contentdef.com": 1,
   "gigporno.ru": 1, 
   "pornbase.org": 1, 
   "megaporn.com": 1,
