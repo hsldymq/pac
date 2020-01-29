@@ -206,6 +206,8 @@ var domains = {
   "fuchsia.dev": 1,
   "opensource.google": 1,
   "fiddle.jshell.net": 1,
+  "godaddy.com": 1,
+  "letsencrypt.org": 1,
 
   // CDN
   "intercomcdn.com": 1,
@@ -216,6 +218,7 @@ var domains = {
   "sndcdn.com": 1,
   "nflxvideo.net": 1,
   "portalcdn.com": 1,
+  "discourse-cdn.com": 1,
 
   "gohugo.io": 1,       // hugo
 
