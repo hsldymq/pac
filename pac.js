@@ -220,6 +220,8 @@ var domains = {
   "portalcdn.com": 1,
   "discourse-cdn.com": 1,
   "edx-cdn.org": 1,
+  "redditstatic.com": 1,
+  "redditmedia.com": 1,
 
   "gohugo.io": 1,       // hugo
 
