@@ -18,6 +18,7 @@ var domains = {
 
   // 社区
   "reddit.com": 1,
+  "redd.it": 1,
   "quora.com": 1,
   "lvv2.com": 1,
   "steemit.com": 1,
@@ -181,7 +182,6 @@ var domains = {
   "vuejs.org": 1,
   "libsodium.org": 1,
   "developer.mozilla.org": 1,
-  "bargain.mycard520.com.tw": 0,
   "mycard520.com.tw": 1,
   "mycard520.com": 1,
   "kaisery.github.io": 1,
