@@ -219,6 +219,7 @@ var domains = {
   "nflxvideo.net": 1,
   "portalcdn.com": 1,
   "discourse-cdn.com": 1,
+  "edx-cdn.org": 1,
 
   "gohugo.io": 1,       // hugo
 
