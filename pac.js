@@ -975,6 +975,8 @@ var domains = {
   "verizon.net": 1, 
   "sacom.hk": 1, 
   "imdb.com": 1, 
+  "media-imdb.com": 1,
+  "media-amazon.com": 1,
   "wikiwiki.jp": 1, 
   "wufi.org.tw": 1, 
   "bt95.com": 1, 
