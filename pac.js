@@ -229,6 +229,8 @@ var domains = {
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
 
+  "nationalmuseum.af.mil": 1,
+
   "googleadservices.com": 1,
   "google-analytics.com": 1,
   "google.com": 1, 
