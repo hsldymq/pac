@@ -15,6 +15,7 @@ var domains = {
 
   // 社交
   "slack.com": 1,
+  "t.me": 1,
 
   // 社区
   "reddit.com": 1,
@@ -70,6 +71,8 @@ var domains = {
   "justinguitar.com": 1,
 
   // 资源
+  "winudf.com": 1,
+  "apkpure.com": 1,
   "pinterest.com": 1,
   "donkey4u.com": 1,
   "libgen.io": 1,
@@ -105,6 +108,7 @@ var domains = {
   "filemarkets.com": 1,
   "torrentants.com": 1,
   "btgat.com": 1,
+  "maths.sci.ku.ac.th": 1,
 
   // 金融
   "hbg.com": 1,
@@ -208,6 +212,7 @@ var domains = {
   "fiddle.jshell.net": 1,
   "godaddy.com": 1,
   "letsencrypt.org": 1,
+  "sourcecodebrowser.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
