@@ -109,6 +109,8 @@ var domains = {
   "torrentants.com": 1,
   "btgat.com": 1,
   "maths.sci.ku.ac.th": 1,
+  "iers.org": 1,
+  "iana.org": 1,
 
   // 金融
   "hbg.com": 1,
