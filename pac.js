@@ -111,6 +111,7 @@ var domains = {
   "maths.sci.ku.ac.th": 1,
   "iers.org": 1,
   "iana.org": 1,
+  "agopax.it": 1,
 
   // 金融
   "hbg.com": 1,
