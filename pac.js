@@ -24,6 +24,7 @@ var domains = {
   "lvv2.com": 1,
   "steemit.com": 1,
   "apachecn.org": 1,
+  "archiveofourown.org": 1,
 
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
