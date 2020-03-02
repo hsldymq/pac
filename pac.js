@@ -70,6 +70,7 @@ var domains = {
   "bandcamp": 1,
   "fender.com": 1,
   "justinguitar.com": 1,
+  "twitch.tv": 1,
 
   // 资源
   "winudf.com": 1,
