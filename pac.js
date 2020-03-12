@@ -114,6 +114,7 @@ var domains = {
   "iers.org": 1,
   "iana.org": 1,
   "agopax.it": 1,
+  "protonmail.com": 1,
 
   // 金融
   "hbg.com": 1,
