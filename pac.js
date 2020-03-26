@@ -12,6 +12,7 @@ var domains = {
   // Tools
   "gimpshop.com": 1,                  
   "putty.org": 1,
+  "urbandictionary.com": 1,
 
   // 社交
   "slack.com": 1,
