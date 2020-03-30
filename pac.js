@@ -8,16 +8,19 @@ var domains = {
   "haproxy.org": 1,
   "rssing.com": 1,
   "v2fly.org": 1,
+  /*******************************************/
 
-  /****************** Tools ******************
+  /****************** Tools ******************/
   "gimpshop.com": 1,                  
   "putty.org": 1,
   "urbandictionary.com": 1,
+  /*******************************************/
 
   /****************** 社交 ******************/
   "slack.com": 1,
   'telegram.org': 1,
   "t.me": 1,            
+  /*******************************************/
 
   /****************** 社区 ******************/
   "reddit.com": 1,
@@ -27,8 +30,9 @@ var domains = {
   "steemit.com": 1,
   "apachecn.org": 1,
   "archiveofourown.org": 1,
+  /*******************************************/
 
-  // 咨询新闻
+  /****************** 咨询新闻 ******************/
   "wikinews.org": 1,                  // 维基新闻
   "2000fun.com": 1,                   // 游戏咨询
   "bignews.org": 1,
@@ -38,8 +42,9 @@ var domains = {
   "cnet.com": 1,
   "cbsi.com": 1,
   "medium.com": 1,
+  /*******************************************/
 
-  // 博客 & 个人主页
+  /****************** 博客 & 个人主页 ******************/
   "joachims.org": 1,                  // Thorsten Joachims
   "wingy.top": 1,                   
   "redheadmonkeys.com": 1,            // Orangutang
@@ -52,7 +57,7 @@ var domains = {
   "10beasts.net": 1,
   "ruslanspivak.com": 1,
 
-  // 运动
+  /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
   "shop.ccs.com": 1,                  // Skate,Snow,Streetware And More
   "skatewarehouse.com": 1,            // 滑板
@@ -64,7 +69,7 @@ var domains = {
   "prototypeparachutes.com": 1,
   "chutingstar.com": 1,
 
-  // 视频音乐
+  /****************** 视频音乐 ******************/
   "youtube.com": 1, 
   "youtubecn.com": 1, 
   "vimeo.com": 1,
@@ -74,7 +79,7 @@ var domains = {
   "justinguitar.com": 1,
   "twitch.tv": 1,
 
-  // 资源
+  /****************** 资源 ******************/
   "winudf.com": 1,
   "apkpure.com": 1,
   "pinterest.com": 1,
@@ -118,12 +123,12 @@ var domains = {
   "agopax.it": 1,
   "protonmail.com": 1,
 
-  // 金融
+  /****************** 金融 ******************/
   "hbg.com": 1,
   "binance.com": 1,
   "zb": 1,
 
-  // 游戏
+  /****************** 游戏 ******************/
   "steampowered.com": 1,
   "steamcommunity.com": 1,
   "alliedmods.net": 1,
@@ -131,13 +136,13 @@ var domains = {
   "battle.net": 1,
   "callofduty.com": 1,
 
-  // 设计
+  /****************** 设计 ******************/
   "tagul.com": 1,
   "material.io": 1,
   "reeoo.com": 1,
   "adobe.com": 1,
 
-  // 购物
+  /****************** 购物 ******************/
   "paypal.com": 1,
   "3dcartstores.com": 1,
   "shipstation.com": 1,
@@ -146,7 +151,7 @@ var domains = {
   "lotte.com": 1,
   "gopro.com": 1,
 
-  // linux
+  /****************** linux ******************/
   "archlinux.org": 1,
   "savannah.gnu.org": 1,
   "yzu.edu.tw": 1,
@@ -155,10 +160,10 @@ var domains = {
   "manjaro.org": 1,
   "kde.org": 1,
 
-  // 应用
+  /****************** 应用 ******************/
   "apps.apple.com": 1,
 
-  // 教育
+  /****************** 教育 ******************/
   "coursera.org": 1,
   "headfirstlabs.com": 1, 
   "vanderbilt.edu": 1,
@@ -167,12 +172,12 @@ var domains = {
   "academia.edu": 1,
   "pacuit.org": 1,
 
-  // 云
+  /****************** 云 ******************/
   "amazonaws.com": 1,
   "aws.amazon.com": 1,
   "gcr.io": 1,
 
-  // 开发
+  /****************** 开发 ******************/
   "pecl.php.net": 1,
   "php.net": 1,
   "telerik.com": 1,
@@ -222,7 +227,7 @@ var domains = {
   "letsencrypt.org": 1,
   "sourcecodebrowser.com": 1,
 
-  // CDN
+  /****************** CDN ******************/
   "intercomcdn.com": 1,
   "intercom.io": 1,
   "fbcdn.net": 1,
@@ -238,7 +243,7 @@ var domains = {
 
   "gohugo.io": 1,       // hugo
 
-  // 工作
+  /****************** 工作 ******************/
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
 
