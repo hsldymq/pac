@@ -15,6 +15,7 @@ var domains = {
 
   // 社交
   "slack.com": 1,
+  'telegram.org': 1,
 
   // 社区
   "reddit.com": 1,
@@ -2708,8 +2709,11 @@ var domains = {
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
-
 var direct = 'DIRECT;';
+var outbounds = [
+    direct,
+    'SOCKS5 127.0.0.1:1080;',
+];
 
 var hasOwnProperty = Object.hasOwnProperty;
 
@@ -2719,17 +2723,10 @@ function FindProxyForURL(url, host) {
     while (splited.length > 0) {
         var h = splited.join('.');
         if (hasOwnProperty.call(domains, h)) {
-            if (domains[h] === 1) {
-                return proxy;
-            } else {
-                return direct;
-            }
-            
+            return outbounds[domains[h]];
         }
-
         splited.shift();
     }
-
     return direct;
 }
 
