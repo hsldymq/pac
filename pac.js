@@ -1,5 +1,5 @@
 var domains = {
-  // VPN & Proxy
+  /****************** VPN & Proxy ******************/
   "bandwagonhost.com": 1,             // 搬瓦工
   "perfectvpn.net": 1, 
   "strongvpn.com": 1, 
@@ -9,20 +9,24 @@ var domains = {
   "rssing.com": 1,
   "v2fly.org": 1,
 
-  // Tools
+  /****************** Tools ******************
   "gimpshop.com": 1,                  
   "putty.org": 1,
+  "urbandictionary.com": 1,
 
-  // 社交
+  /****************** 社交 ******************/
   "slack.com": 1,
   'telegram.org': 1,
+  "t.me": 1,            
 
-  // 社区
+  /****************** 社区 ******************/
   "reddit.com": 1,
+  "redd.it": 1,
   "quora.com": 1,
   "lvv2.com": 1,
   "steemit.com": 1,
   "apachecn.org": 1,
+  "archiveofourown.org": 1,
 
   // 咨询新闻
   "wikinews.org": 1,                  // 维基新闻
@@ -68,8 +72,11 @@ var domains = {
   "bandcamp": 1,
   "fender.com": 1,
   "justinguitar.com": 1,
+  "twitch.tv": 1,
 
   // 资源
+  "winudf.com": 1,
+  "apkpure.com": 1,
   "pinterest.com": 1,
   "donkey4u.com": 1,
   "libgen.io": 1,
@@ -105,6 +112,11 @@ var domains = {
   "filemarkets.com": 1,
   "torrentants.com": 1,
   "btgat.com": 1,
+  "maths.sci.ku.ac.th": 1,
+  "iers.org": 1,
+  "iana.org": 1,
+  "agopax.it": 1,
+  "protonmail.com": 1,
 
   // 金融
   "hbg.com": 1,
@@ -153,6 +165,7 @@ var domains = {
   "edu.au": 1,
   "eslite.com": 1,
   "academia.edu": 1,
+  "pacuit.org": 1,
 
   // 云
   "amazonaws.com": 1,
@@ -181,7 +194,6 @@ var domains = {
   "vuejs.org": 1,
   "libsodium.org": 1,
   "developer.mozilla.org": 1,
-  "bargain.mycard520.com.tw": 0,
   "mycard520.com.tw": 1,
   "mycard520.com": 1,
   "kaisery.github.io": 1,
@@ -206,6 +218,9 @@ var domains = {
   "fuchsia.dev": 1,
   "opensource.google": 1,
   "fiddle.jshell.net": 1,
+  "godaddy.com": 1,
+  "letsencrypt.org": 1,
+  "sourcecodebrowser.com": 1,
 
   // CDN
   "intercomcdn.com": 1,
@@ -215,12 +230,19 @@ var domains = {
   "quoracdn.net": 1,
   "sndcdn.com": 1,
   "nflxvideo.net": 1,
+  "portalcdn.com": 1,
+  "discourse-cdn.com": 1,
+  "edx-cdn.org": 1,
+  "redditstatic.com": 1,
+  "redditmedia.com": 1,
 
   "gohugo.io": 1,       // hugo
 
   // 工作
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
+
+  "nationalmuseum.af.mil": 1,
 
   "googleadservices.com": 1,
   "google-analytics.com": 1,
@@ -968,6 +990,8 @@ var domains = {
   "verizon.net": 1, 
   "sacom.hk": 1, 
   "imdb.com": 1, 
+  "media-imdb.com": 1,
+  "media-amazon.com": 1,
   "wikiwiki.jp": 1, 
   "wufi.org.tw": 1, 
   "bt95.com": 1, 
@@ -2693,6 +2717,9 @@ var domains = {
   "pornoxo.com": 1, 
   "porntube.com": 1, 
   "pornhub.com": 1, 
+  "pornhubpremium.com": 1,
+  "phprcdn.com": 1,
+  "contentdef.com": 1,
   "gigporno.ru": 1, 
   "pornbase.org": 1, 
   "megaporn.com": 1,
