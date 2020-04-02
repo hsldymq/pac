@@ -240,8 +240,11 @@ var domains = {
   "edx-cdn.org": 1,
   "redditstatic.com": 1,
   "redditmedia.com": 1,
+  'telesco.pe': 1,
 
   "gohugo.io": 1,       // hugo
+
+  "feedbackassistant.apple.com": 1,
 
   /****************** 工作 ******************/
   "download-na.haochang.tv":1,
