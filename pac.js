@@ -226,6 +226,7 @@ var domains = {
   "godaddy.com": 1,
   "letsencrypt.org": 1,
   "sourcecodebrowser.com": 1,
+  "python.org": 1,
 
   /****************** CDN ******************/
   "intercomcdn.com": 1,
