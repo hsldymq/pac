@@ -277,6 +277,8 @@ var domains = {
 
   "freefalluniversity.co.uk": 1,
 
+  "zhycw.com": 1,
+
   "fuckgfw.com": 1, 
   "fuckgcd.net": 1,
   "autoproxy-gfwlist.googlecode.com": 1, 
