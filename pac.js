@@ -199,6 +199,7 @@ var domains = {
   "vuejs.org": 1,
   "libsodium.org": 1,
   "developer.mozilla.org": 1,
+  "bargain.mycard520.com.tw": 0,
   "mycard520.com.tw": 1,
   "mycard520.com": 1,
   "kaisery.github.io": 1,
