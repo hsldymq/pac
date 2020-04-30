@@ -238,6 +238,7 @@ var domains = {
   "sourcecodebrowser.com": 1,
   "python.org": 1,
   "php-fig.org": 1,
+  "chromium.org": 1,
 
   /****************** CDN ******************/
   "intercomcdn.com": 1,
