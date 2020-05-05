@@ -1,5 +1,5 @@
 var domains = {
-  // VPN & Proxy
+  /****************** VPN & Proxy ******************/
   "bandwagonhost.com": 1,             // 搬瓦工
   "perfectvpn.net": 1, 
   "strongvpn.com": 1, 
@@ -8,17 +8,21 @@ var domains = {
   "haproxy.org": 1,
   "rssing.com": 1,
   "v2fly.org": 1,
+  /*******************************************/
 
-  // Tools
+  /****************** Tools ******************/
   "gimpshop.com": 1,                  
   "putty.org": 1,
   "urbandictionary.com": 1,
+  /*******************************************/
 
-  // 社交
+  /****************** 社交 ******************/
   "slack.com": 1,
-  "t.me": 1,
+  'telegram.org': 1,
+  "t.me": 1,            
+  /*******************************************/
 
-  // 社区
+  /****************** 社区 ******************/
   "reddit.com": 1,
   "redd.it": 1,
   "quora.com": 1,
@@ -26,8 +30,18 @@ var domains = {
   "steemit.com": 1,
   "apachecn.org": 1,
   "archiveofourown.org": 1,
+  /*******************************************/
 
-  // 咨询新闻
+  /****************** 标准 ******************/
+  "currency-iso.org": 1,
+  /*******************************************/
+
+  /****************** 阅读 ******************/
+  "feedly.com": 1,
+  /*******************************************/
+
+
+  /****************** 咨询新闻 ******************/
   "wikinews.org": 1,                  // 维基新闻
   "2000fun.com": 1,                   // 游戏咨询
   "bignews.org": 1,
@@ -37,8 +51,9 @@ var domains = {
   "cnet.com": 1,
   "cbsi.com": 1,
   "medium.com": 1,
+  /*******************************************/
 
-  // 博客 & 个人主页
+  /****************** 博客 & 个人主页 ******************/
   "joachims.org": 1,                  // Thorsten Joachims
   "wingy.top": 1,                   
   "redheadmonkeys.com": 1,            // Orangutang
@@ -51,7 +66,7 @@ var domains = {
   "10beasts.net": 1,
   "ruslanspivak.com": 1,
 
-  // 运动
+  /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
   "shop.ccs.com": 1,                  // Skate,Snow,Streetware And More
   "skatewarehouse.com": 1,            // 滑板
@@ -63,7 +78,7 @@ var domains = {
   "prototypeparachutes.com": 1,
   "chutingstar.com": 1,
 
-  // 视频音乐
+  /****************** 视频音乐 ******************/
   "youtube.com": 1, 
   "youtubecn.com": 1, 
   "vimeo.com": 1,
@@ -73,7 +88,7 @@ var domains = {
   "justinguitar.com": 1,
   "twitch.tv": 1,
 
-  // 资源
+  /****************** 资源 ******************/
   "winudf.com": 1,
   "apkpure.com": 1,
   "pinterest.com": 1,
@@ -117,12 +132,12 @@ var domains = {
   "agopax.it": 1,
   "protonmail.com": 1,
 
-  // 金融
+  /****************** 金融 ******************/
   "hbg.com": 1,
   "binance.com": 1,
   "zb": 1,
 
-  // 游戏
+  /****************** 游戏 ******************/
   "steampowered.com": 1,
   "steamcommunity.com": 1,
   "alliedmods.net": 1,
@@ -130,13 +145,13 @@ var domains = {
   "battle.net": 1,
   "callofduty.com": 1,
 
-  // 设计
+  /****************** 设计 ******************/
   "tagul.com": 1,
   "material.io": 1,
   "reeoo.com": 1,
   "adobe.com": 1,
 
-  // 购物
+  /****************** 购物 ******************/
   "paypal.com": 1,
   "3dcartstores.com": 1,
   "shipstation.com": 1,
@@ -145,7 +160,7 @@ var domains = {
   "lotte.com": 1,
   "gopro.com": 1,
 
-  // linux
+  /****************** linux ******************/
   "archlinux.org": 1,
   "savannah.gnu.org": 1,
   "yzu.edu.tw": 1,
@@ -154,10 +169,10 @@ var domains = {
   "manjaro.org": 1,
   "kde.org": 1,
 
-  // 应用
+  /****************** 应用 ******************/
   "apps.apple.com": 1,
 
-  // 教育
+  /****************** 教育 ******************/
   "coursera.org": 1,
   "headfirstlabs.com": 1, 
   "vanderbilt.edu": 1,
@@ -166,12 +181,12 @@ var domains = {
   "academia.edu": 1,
   "pacuit.org": 1,
 
-  // 云
+  /****************** 云 ******************/
   "amazonaws.com": 1,
   "aws.amazon.com": 1,
   "gcr.io": 1,
 
-  // 开发
+  /****************** 开发 ******************/
   "pecl.php.net": 1,
   "php.net": 1,
   "telerik.com": 1,
@@ -193,6 +208,7 @@ var domains = {
   "vuejs.org": 1,
   "libsodium.org": 1,
   "developer.mozilla.org": 1,
+  "bargain.mycard520.com.tw": 0,
   "mycard520.com.tw": 1,
   "mycard520.com": 1,
   "kaisery.github.io": 1,
@@ -220,8 +236,10 @@ var domains = {
   "godaddy.com": 1,
   "letsencrypt.org": 1,
   "sourcecodebrowser.com": 1,
+  "python.org": 1,
+  "php-fig.org": 1,
 
-  // CDN
+  /****************** CDN ******************/
   "intercomcdn.com": 1,
   "intercom.io": 1,
   "fbcdn.net": 1,
@@ -234,10 +252,13 @@ var domains = {
   "edx-cdn.org": 1,
   "redditstatic.com": 1,
   "redditmedia.com": 1,
+  'telesco.pe': 1,
 
   "gohugo.io": 1,       // hugo
 
-  // 工作
+  "feedbackassistant.apple.com": 1,
+
+  /****************** 工作 ******************/
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
 
@@ -268,6 +289,8 @@ var domains = {
   "mikeroweworks.com": 1,
 
   "freefalluniversity.co.uk": 1,
+
+  "zhycw.com": 1,
 
   "fuckgfw.com": 1, 
   "fuckgcd.net": 1,
@@ -2737,8 +2760,11 @@ var domains = {
 };
 
 var proxy = "SOCKS5 127.0.0.1:1080;";
-
 var direct = 'DIRECT;';
+var outbounds = [
+    direct,
+    'SOCKS5 127.0.0.1:1080;',
+];
 
 var hasOwnProperty = Object.hasOwnProperty;
 
@@ -2748,17 +2774,10 @@ function FindProxyForURL(url, host) {
     while (splited.length > 0) {
         var h = splited.join('.');
         if (hasOwnProperty.call(domains, h)) {
-            if (domains[h] === 1) {
-                return proxy;
-            } else {
-                return direct;
-            }
-            
+            return outbounds[domains[h]];
         }
-
         splited.shift();
     }
-
     return direct;
 }
 
