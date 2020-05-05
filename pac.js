@@ -241,6 +241,8 @@ var domains = {
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
 
+  "zhycw.com": 1,
+
   "nationalmuseum.af.mil": 1,
 
   "googleadservices.com": 1,
