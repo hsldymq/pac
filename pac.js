@@ -239,6 +239,7 @@ var domains = {
   "python.org": 1,
   "php-fig.org": 1,
   "chromium.org": 1,
+  "ycombinator.com": 1,
 
   /****************** CDN ******************/
   "intercomcdn.com": 1,
