@@ -38,6 +38,7 @@ var domains = {
 
   /****************** 阅读 ******************/
   "feedly.com": 1,
+  "zerohedge.com": 1,
   /*******************************************/
 
 
@@ -263,6 +264,8 @@ var domains = {
   /****************** 工作 ******************/
   "download-na.haochang.tv":1,
   "partyforsing.tv": 1,
+
+  "zhycw.com": 1,
 
   "nationalmuseum.af.mil": 1,
 
