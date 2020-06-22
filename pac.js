@@ -133,6 +133,7 @@ var domains = {
   "iana.org": 1,
   "agopax.it": 1,
   "protonmail.com": 1,
+  "pinimg.com": 1,
 
   /****************** 金融 ******************/
   "hbg.com": 1,
