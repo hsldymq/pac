@@ -288,6 +288,7 @@ var domains = {
   "domain.google": 1,
   "ai.google": 1,
   "googleblog.com": 1,
+  "google.com.sg": 1,
 
   "businessinsider.com": 1,
 
