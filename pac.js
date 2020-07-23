@@ -190,6 +190,7 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "angular.io": 1,
   "pecl.php.net": 1,
   "php.net": 1,
   "telerik.com": 1,
