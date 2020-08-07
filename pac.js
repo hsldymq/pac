@@ -134,6 +134,7 @@ var domains = {
   "agopax.it": 1,
   "protonmail.com": 1,
   "pinimg.com": 1,
+  "fontawsesome.com": 1,
 
   /****************** 金融 ******************/
   "hbg.com": 1,
@@ -190,6 +191,7 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "kafka.apache.org": 1,
   "angular.io": 1,
   "pecl.php.net": 1,
   "php.net": 1,
