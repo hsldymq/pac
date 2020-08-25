@@ -246,6 +246,7 @@ var domains = {
   "php-fig.org": 1,
   "chromium.org": 1,
   "ycombinator.com": 1,
+  "elastic.co": 1,
 
   /****************** CDN ******************/
   "intercomcdn.com": 1,
