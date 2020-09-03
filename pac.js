@@ -191,6 +191,7 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "opentracing.io": 1,
   "kafka.apache.org": 1,
   "angular.io": 1,
   "pecl.php.net": 1,
