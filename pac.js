@@ -191,6 +191,8 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "ymfe.org": 1,
+  "jquery.com": 1,
   "opentracing.io": 1,
   "kafka.apache.org": 1,
   "angular.io": 1,
@@ -263,6 +265,7 @@ var domains = {
   "redditstatic.com": 1,
   "redditmedia.com": 1,
   'telesco.pe': 1,
+  "rawgit.com": 1,
 
   "gohugo.io": 1,       // hugo
 
