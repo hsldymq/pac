@@ -191,6 +191,7 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "pgbouncer.org": 1,
   "ymfe.org": 1,
   "jquery.com": 1,
   "opentracing.io": 1,
