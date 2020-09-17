@@ -85,6 +85,7 @@ var domains = {
   "youtubecn.com": 1, 
   "vimeo.com": 1,
   "vimeocdn.com": 1,
+  "vidyard.com": 1,
   "bandcamp": 1,
   "fender.com": 1,
   "justinguitar.com": 1,
