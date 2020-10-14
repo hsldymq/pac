@@ -1,6 +1,5 @@
-var domains = {};
-// var domains = {
-var domains_backup = {
+var domains_override = {};
+var domains = {
   /****************** VPN & Proxy ******************/
   "bandwagonhost.com": 1,             // 搬瓦工
   "perfectvpn.net": 1, 
@@ -2787,12 +2786,13 @@ var outbounds = [
 var hasOwnProperty = Object.hasOwnProperty;
 
 function FindProxyForURL(url, host) {
+    var config = getDomainConfig();
     var splited = host.split('.');
 
     while (splited.length > 0) {
         var h = splited.join('.');
-        if (hasOwnProperty.call(domains, h)) {
-            return outbounds[domains[h]];
+        if (hasOwnProperty.call(config, h)) {
+            return outbounds[config[h]];
         }
         splited.shift();
     }
@@ -2800,21 +2800,30 @@ function FindProxyForURL(url, host) {
 }
 
 function FindProxyForURL_backup(url, host) {
+    var config = getDomainConfig();
     var suffix;
     var pos = host.lastIndexOf('.');
+
     pos = host.lastIndexOf('.', pos - 1);
     while(1) {
         if (pos <= 0) {
-            if (hasOwnProperty.call(domains, host)) {
+            if (hasOwnProperty.call(config, host)) {
                 return proxy;
             } else {
                 return direct;
             }
         }
         suffix = host.substring(pos + 1);
-        if (hasOwnProperty.call(domains, suffix)) {
+        if (hasOwnProperty.call(config, suffix)) {
             return proxy;
         }
         pos = host.lastIndexOf('.', pos - 1);
     }
+}
+
+function getDomainConfig() {
+    if (domains_override) {
+        return domains_override;
+    }
+    return domains;
 }
