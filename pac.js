@@ -1,4 +1,5 @@
 var domains = {};
+// var domains = {
 var domains_backup = {
   /****************** VPN & Proxy ******************/
   "bandwagonhost.com": 1,             // 搬瓦工
