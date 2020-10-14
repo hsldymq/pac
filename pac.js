@@ -1,4 +1,4 @@
-var domains_override = {};
+// var domains_override = {};
 var domains = {
   /****************** VPN & Proxy ******************/
   "bandwagonhost.com": 1,             // 搬瓦工
