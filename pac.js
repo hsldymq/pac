@@ -2822,7 +2822,7 @@ function FindProxyForURL_backup(url, host) {
 }
 
 function getDomainConfig() {
-    if (domains_override) {
+    if (typeof(domains_override) === 'object') {
         return domains_override;
     }
     return domains;
