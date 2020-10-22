@@ -9,7 +9,7 @@ import (
 func main() {
 	fs := http.FileServer(http.Dir("./pac"))
 	http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
-		fmt.Printf("request: %s %s", r.Method, r.URL.Path)
+		fmt.Printf("request: %s %s\n", r.Method, r.URL.Path)
 		if r.URL.Path == "/pac.js" {
 			w.Header().Set("Content-Type", "text/javascript; charset=UTF-8")
 		}
