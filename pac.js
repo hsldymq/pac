@@ -137,6 +137,7 @@ var domains = {
   "protonmail.com": 1,
   "pinimg.com": 1,
   "fontawsesome.com": 1,
+  "issuu.com": 1,
 
   /****************** 金融 ******************/
   "hbg.com": 1,
