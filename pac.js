@@ -55,6 +55,7 @@ var domains = {
   "cnet.com": 1,
   "cbsi.com": 1,
   "medium.com": 1,
+  "webexhibits.org": 1,
   /*******************************************/
 
   /****************** 博客 & 个人主页 ******************/
@@ -307,6 +308,8 @@ var domains = {
   "google.com.sg": 1,
 
   "businessinsider.com": 1,
+
+  "dw.com": 1,
 
   "mikeroweworks.com": 1,
 
