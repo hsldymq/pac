@@ -259,7 +259,7 @@ var domains = {
   "chromium.org": 1,
   "ycombinator.com": 1,
   "elastic.co": 1,
-  "devstreaming-cdn.apple.com": 1
+  "devstreaming-cdn.apple.com": 1,
   
   /****************** CDN ******************/
   "intercomcdn.com": 1,
