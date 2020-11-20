@@ -236,6 +236,7 @@ var domains = {
   "laravel.com": 1,
   "wiki.php.net": 1,
   "github.com": 1, 
+  "github.blog": 1,
   "githubasssets.com": 1,
   "githubusercontent.com": 1,
   "opencollective.com": 1,
