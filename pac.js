@@ -72,6 +72,7 @@ var domains = {
   "ruslanspivak.com": 1,
   "about.me": 1,
   "falsehoodsabouttime.com": 1,
+  "infiniteundo.com": 1,
 
   /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -143,6 +144,7 @@ var domains = {
   "fontawsesome.com": 1,
   "issuu.com": 1,
   "itu.int": 1,
+  "tumblr.com": 1,
 
   /****************** 金融 ******************/
   "hbg.com": 1,
