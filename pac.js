@@ -71,6 +71,7 @@ var domains = {
   "10beasts.net": 1,
   "ruslanspivak.com": 1,
   "about.me": 1,
+  "falsehoodsabouttime.com": 1,
 
   /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
