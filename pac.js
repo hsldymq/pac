@@ -145,6 +145,7 @@ var domains = {
   "issuu.com": 1,
   "itu.int": 1,
   "tumblr.com": 1,
+  "sharepoint.com": 1,
 
   /****************** 金融 ******************/
   "hbg.com": 1,
@@ -264,6 +265,7 @@ var domains = {
   "ycombinator.com": 1,
   "elastic.co": 1,
   "devstreaming-cdn.apple.com": 1,
+  "jaegertracing.io": 1,
   
   /****************** CDN ******************/
   "intercomcdn.com": 1,
