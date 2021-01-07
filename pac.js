@@ -151,6 +151,7 @@ var domains = {
   "hbg.com": 1,
   "binance.com": 1,
   "zb": 1,
+  "bitstamp.net": 1,
 
   /****************** 游戏 ******************/
   "steampowered.com": 1,
@@ -185,6 +186,7 @@ var domains = {
   "kde.org": 1,
 
   /****************** 应用 ******************/
+  "apple.com": 1,
   "apps.apple.com": 1,
 
   /****************** 教育 ******************/
