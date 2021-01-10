@@ -74,6 +74,7 @@ var domains = {
   "falsehoodsabouttime.com": 1,
   "infiniteundo.com": 1,
   "udn.com": 1,
+  "udn.com.tw": 1,
 
   /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -285,6 +286,7 @@ var domains = {
   "redditmedia.com": 1,
   'telesco.pe': 1,
   "rawgit.com": 1,
+  "appier.net": 1,
 
   "gohugo.io": 1,       // hugo
 
