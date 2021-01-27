@@ -206,6 +206,7 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "cryptopals.com": 1,
   "packagist.org": 1,
   "pgbouncer.org": 1,
   "ymfe.org": 1,
