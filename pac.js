@@ -87,6 +87,7 @@ var domains = {
   "parachutemanuals.com": 1,
   "prototypeparachutes.com": 1,
   "chutingstar.com": 1,
+  "performancedesigns.com": 1,
 
   /****************** 视频音乐 ******************/
   "youtube.com": 1, 
@@ -98,6 +99,7 @@ var domains = {
   "fender.com": 1,
   "justinguitar.com": 1,
   "twitch.tv": 1,
+  "secureservercdn.net": 1,
 
   /****************** 资源 ******************/
   "winudf.com": 1,
