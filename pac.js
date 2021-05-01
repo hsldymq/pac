@@ -15,6 +15,7 @@ var domains = {
   "gimpshop.com": 1,                  
   "putty.org": 1,
   "urbandictionary.com": 1,
+  "toggl.com": 1,
   /*******************************************/
 
   /****************** 社交 ******************/
@@ -209,6 +210,7 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "unidoc.io": 1,
   "cryptopals.com": 1,
   "packagist.org": 1,
   "pgbouncer.org": 1,
