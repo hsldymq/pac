@@ -77,6 +77,7 @@ var domains = {
   "udn.com": 1,
   "udn.com.tw": 1,
   "calnewport.com": 1,
+  "notion": 1,
 
   /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
