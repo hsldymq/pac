@@ -15,6 +15,7 @@ var domains = {
   "gimpshop.com": 1,                  
   "putty.org": 1,
   "urbandictionary.com": 1,
+  "toggl.com": 1,
   /*******************************************/
 
   /****************** 社交 ******************/
@@ -74,6 +75,10 @@ var domains = {
   "falsehoodsabouttime.com": 1,
   "infiniteundo.com": 1,
   "johndcook.com": 1,
+  "udn.com": 1,
+  "udn.com.tw": 1,
+  "calnewport.com": 1,
+  "notion": 1,
 
   /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
@@ -86,6 +91,7 @@ var domains = {
   "parachutemanuals.com": 1,
   "prototypeparachutes.com": 1,
   "chutingstar.com": 1,
+  "performancedesigns.com": 1,
 
   /****************** 视频音乐 ******************/
   "youtube.com": 1, 
@@ -97,6 +103,7 @@ var domains = {
   "fender.com": 1,
   "justinguitar.com": 1,
   "twitch.tv": 1,
+  "secureservercdn.net": 1,
 
   /****************** 资源 ******************/
   "winudf.com": 1,
@@ -205,6 +212,8 @@ var domains = {
   "gcr.io": 1,
 
   /****************** 开发 ******************/
+  "unidoc.io": 1,
+  "cryptopals.com": 1,
   "packagist.org": 1,
   "pgbouncer.org": 1,
   "ymfe.org": 1,
@@ -285,6 +294,7 @@ var domains = {
   "redditmedia.com": 1,
   'telesco.pe': 1,
   "rawgit.com": 1,
+  "appier.net": 1,
 
   "gohugo.io": 1,       // hugo
 
