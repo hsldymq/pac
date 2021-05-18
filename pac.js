@@ -73,6 +73,7 @@ var domains = {
   "about.me": 1,
   "falsehoodsabouttime.com": 1,
   "infiniteundo.com": 1,
+  "johndcook.com": 1,
 
   /****************** 运动 ******************/
   "surfeasy.com.au": 1,               // 冲浪学校
