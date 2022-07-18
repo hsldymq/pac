@@ -278,6 +278,7 @@ var domains = {
   "elastic.co": 1,
   "devstreaming-cdn.apple.com": 1,
   "jaegertracing.io": 1,
+  "wiki.peiqi.tech": 1,
   
   /****************** CDN ******************/
   "intercomcdn.com": 1,
