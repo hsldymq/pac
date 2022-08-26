@@ -342,6 +342,7 @@ var domains = {
   "fuckgcd.net": 1,
   "autoproxy-gfwlist.googlecode.com": 1, 
 
+  "mp.br": 1,
   "transbay.net": 1,
   "wp.com": 1,
   "directcreative.com": 1, 
